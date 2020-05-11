@@ -6,9 +6,6 @@ import json
 jug={}
 
 
-
-#uso un archivo json
-
 def guardarjugadores(jug):
     with open('jugadores.json','w') as archivo:
         json.dump(jug,archivo)
