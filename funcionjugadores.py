@@ -1,7 +1,7 @@
 import PySimpleGUI as sg
 import json
 
-#la estructura de datos es diccionario para guardar el nombre,apellido y a que juego jugo
+#la estructura de datos del tipo diccionario porque propuse  clave nombre,apellido del jugador y a que juego jugo
 #me decidi por los archivos JSON  ya que es mucho más fácil y siempre  porque le permite abrirlo en un editor de texto y revisar los datos 
 
 jug={}
